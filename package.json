@@ -28,11 +28,17 @@
     "eztv",
     "limetorrents"
   ],
-  "author": "Jimmy Laurent",
+  "contributors": [
+    {
+      "name": "Jimmy Laurent",
+      "url": "git://github.com/JimmyLaurent/torrent-search-api.git"
+    }
+  ],
+  "author": "Habibouldmoussa",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/JimmyLaurent/torrent-search-api.git"
+    "url": "https://github.com/Habibouldmoussa/torrent-search-api-for-barbaroussa.git"
   },
   "dependencies": {
     "cloudscraper": "^4.6.0",
