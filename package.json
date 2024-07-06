@@ -1,7 +1,7 @@
 {
-  "name": "torrent-search-api",
-  "version": "2.1.4",
-  "description": "Yet another node torrent scraper based on x-ray. (Support iptorrents, torrentleech, torrent9, Yyggtorrent, ThePiratebay, torrentz2, 1337x, KickassTorrent, Rarbg, TorrentProject, Yts, Limetorrents, Eztv)",
+  "name": "torrent-search-api-for-barbaroussa",
+  "version": "1.0.0",
+  "description": "Yet another node torrent scraper based on x-ray for barbaroussa. (Support iptorrents, torrentleech, torrent9, Yyggtorrent, ThePiratebay, torrentz2, 1337x, KickassTorrent, Rarbg, TorrentProject, Yts, Limetorrents, Eztv)",
   "main": "index.js",
   "scripts": {
     "test": "jest",
